@@ -1,2 +1,3 @@
-# Assignments
-C languages
+
+
+<h1 align="center"> Assignments </h1>
